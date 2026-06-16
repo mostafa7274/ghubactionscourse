@@ -2,9 +2,9 @@
   "name": "greeting-app",
   "version": "1.0.0",
   "description": "A simple JavaScript greeting application",
-  "main": "greet.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node greet.js",
+    "start": "node app.js",
     "test": "bash test.sh"
   },
   "author": "",
