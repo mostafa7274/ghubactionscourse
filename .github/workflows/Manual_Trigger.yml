@@ -5,7 +5,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    steps:   ## our list of steps
+    steps:   
       - name: Deploy application
         run: echo "Deploy the application....."
     
